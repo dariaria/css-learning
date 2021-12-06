@@ -1,4 +1,14 @@
-#all-articles h2 + p{
-    color:springgreen;
+span[class~="deck"]{
+    color:palevioletred;
 
+}
+
+div[id]{
+    background:fuchsia;
+
+}
+
+a[href^="http"]{
+    color: pink;
+    
 }
