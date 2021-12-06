@@ -1,19 +1,17 @@
-body{
-    color: red;
-   
-}
+#main-content p{
+    color:red;
 
-div{
-    color: blue;
 }
 
 p{
+    color:lawngreen;
 
-color:violet;
 }
 
-a {
-    color:yellowgreen;
-    text-decoration:underline;
+.test{
+    color: green;
 }
 
+strong{
+    color:hotpink;
+}
