@@ -1,26 +1,21 @@
 
 /* Targeting elements / tags */
 
-p {
-    font-size: 18px;
-    color: chartreuse;
+h2{
+    font-size: 24px;
 }
 
-a{
-    text-decoration:underline ;
-    color: blue;
-
+#content-header{
+    font-size: 18px;
+    color: red;
 }
 
 span{
-    text-transform: uppercase;
+    display: block;
+    color:violet;
+
 }
 
-h1{
-    font-size: 32px;
-}
-
-div{
-    width: 100%;
-    background-color: black;
+.deck{
+    color: red;
 }
