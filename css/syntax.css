@@ -1,10 +1,19 @@
-span{
-    color:blue;
-
+body{
+    color: red;
+   
 }
 
-span{
-
-    color:red;
-
+div{
+    color: blue;
 }
+
+p{
+
+color:violet;
+}
+
+a {
+    color:yellowgreen;
+    text-decoration:underline;
+}
+
