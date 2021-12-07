@@ -1,14 +1,11 @@
-a:hover{
-    color:springgreen
-}
+article p:first-child{
 
-a:active{
-    color:plum;
+font-weight: bold;
 
 }
 
-a:visited{
-    color:salmon;
+article p:last-child{
 
+    color:purple;
+    
 }
-
