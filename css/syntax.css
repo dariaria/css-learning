@@ -1,11 +1,13 @@
-#header p{
-    text-transform: capitalize;
+#header h1{
+    color:springgreen;
+
 }
 
-body{
-    text-transform: uppercase;
+#header h2{
+    color:teal;
+
 }
 
-body > p{
-    text-transform: none;
+#header{
+    background: wheat;
 }
