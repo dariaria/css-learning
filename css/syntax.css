@@ -1,11 +1,3 @@
-article p:first-child{
+li:nth-child(2){
 
 font-weight: bold;
-
-}
-
-article p:last-child{
-
-    color:purple;
-    
-}
