@@ -1,9 +1,8 @@
-article.featured-content {
+*{
 
-    background: rebeccapurple;
+color:sandybrown;
+margin:0;
+padding: 0;
 
 }
 
-div.featured-content{
-    background: rosybrown;
-}
