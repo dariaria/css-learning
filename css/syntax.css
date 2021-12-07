@@ -1,13 +1,9 @@
-li:nth-child(2) {
+article.featured-content {
 
-font-weight: bold;
+    background: rebeccapurple;
+
 }
 
-Li:nth-child(even) {
-
-    background-color: powderblue;
-}
-
-Li:nth-child(odd) {
-background-color: pink;
+div.featured-content{
+    background: rosybrown;
 }
