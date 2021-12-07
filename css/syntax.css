@@ -1,41 +1,9 @@
-.box{
-padding:20px;
-margin:20px;
-float:left;
-}
-
-.dashed{
-    border: 1px pink dashed;
-    
-}
-
-.dotted{
-    border: 4px pink dotted;
-}
-
-.double{
-    border:14 px pink double;
-}
-
-.groove{
-    border: 4px pink groove;
-}
-
-.inset{
-
-    border: 4px pink inset;
-}
-
-.outset{
-
-border: 4px pink outset;
-}
-
-.ridge{
-
-    border:4px pink ridge;
-}
-
-.solid{
-    border: 1px pink solid;
+a{
+    padding: 10px;
+    margin: 10px;
+    background-color:palevioletred;
+    border: 1px solid #000;
+    color:plum;
+    text-decoration:rebeccapurple;
+    display: inline-block;
 }
