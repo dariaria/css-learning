@@ -1,8 +1,12 @@
-*{
+article{
+    font-size: 16px;
+}
 
-color:sandybrown;
-margin:0;
-padding: 0;
+article h2{
+    font-size: 4em;
 
 }
 
+article p{
+    font-size: 500%;
+}
