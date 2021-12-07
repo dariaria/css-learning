@@ -1,15 +1,4 @@
-span[class~="deck"]{
+a:hover
+{
     color:palevioletred;
-
 }
-
-div[id]{
-    background:fuchsia;
-
-}
-
-a[href^="http"]{
-    color: pink;
-
-}
-
