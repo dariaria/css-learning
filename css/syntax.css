@@ -1,3 +1,13 @@
-li:nth-child(2){
+li:nth-child(2) {
 
 font-weight: bold;
+}
+
+Li:nth-child(even) {
+
+    background-color: powderblue;
+}
+
+Li:nth-child(odd) {
+background-color: pink;
+}
