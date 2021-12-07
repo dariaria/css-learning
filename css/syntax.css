@@ -1,12 +1,5 @@
-a{
-    color:yellowgreen;
-    text-decoration: none;
-    font-weight: bold;
-}
+p{
+    font: size 12px;
+    letter-spacing: 3em;
 
-a:hover{
-
-    color:violet;
-    text-decoration: underline;
-    background-color:palevioletred;
 }
