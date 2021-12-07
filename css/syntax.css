@@ -1,9 +1,41 @@
 .box{
-    border: 1px solid #000;
-    padding: 20px;
-
+padding:20px;
+margin:20px;
+float:left;
 }
 
-.small{
-    padding-left: 5px;
+.dashed{
+    border: 1px pink dashed;
+    
+}
+
+.dotted{
+    border: 4px pink dotted;
+}
+
+.double{
+    border:14 px pink double;
+}
+
+.groove{
+    border: 4px pink groove;
+}
+
+.inset{
+
+    border: 4px pink inset;
+}
+
+.outset{
+
+border: 4px pink outset;
+}
+
+.ridge{
+
+    border:4px pink ridge;
+}
+
+.solid{
+    border: 1px pink solid;
 }
