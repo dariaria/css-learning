@@ -1,8 +1,9 @@
-.static-width{
-    width: 300px;
+#banner{
+    background-color:powderblue;
+    width: 100%;
     height: 300px;
-    background-color:palevioletred;
-    background-image: url(https://i.pinimg.com/originals/49/ef/3d/49ef3ddcc4dbe98159c35b7f8dbd278c.png) ;
+    background-image: url(https://i.pinimg.com/originals/10/d9/63/10d9631abb9778072c1da264a6d4709a.png), url(https://cdn.picpng.com/cats/download-cats-22927.png);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left, right;
+    background-size: 300px 100%;
 }
